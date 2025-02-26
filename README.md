@@ -14,7 +14,10 @@ A simple web application that uses **Google's Perspective API** to analyze text 
 ---
 
 ## 📸 Demo Screenshot
-![Toxicity Analyzer Demo](https://via.placeholder.com/800x400?text=Demo+Screenshot)
+
+![Screenshot 2025-02-25 224918](https://github.com/user-attachments/assets/deda9889-44e0-4405-a784-af93f7305467)
+![Screenshot 2025-02-25 224852](https://github.com/user-attachments/assets/e3e97404-b472-4226-b8db-f243586dbeb5)
+![Screenshot 2025-02-25 224824](https://github.com/user-attachments/assets/f77edee3-d84a-4d84-8e76-f51f06d10769)
 
 ---
 
@@ -59,12 +62,6 @@ Now, open http://localhost:3000 in your browser.
 - Sends user text to Perspective API.
 - Receives toxicity score (0-1 scale).
 - Displays results on the UI.
-
-
-##Here are some screenshots of the output:
-![Screenshot 2025-02-25 224918](https://github.com/user-attachments/assets/deda9889-44e0-4405-a784-af93f7305467)
-![Screenshot 2025-02-25 224852](https://github.com/user-attachments/assets/e3e97404-b472-4226-b8db-f243586dbeb5)
-![Screenshot 2025-02-25 224824](https://github.com/user-attachments/assets/f77edee3-d84a-4d84-8e76-f51f06d10769)
 
 
 ####Developed by Pallavi Bakale
