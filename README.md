@@ -18,7 +18,7 @@ A simple web application that uses **Google's Perspective API** to analyze text 
 ## 🛠️ Tech Stack
 - **Frontend:** React, CSS  
 - **Backend:** Node.js, Express.js  
-- **API:** Google Perspective API. To get your API key, refer ![here](https://support.perspectiveapi.com/s/docs-enable-the-api?language=en_US).
+- **API:** Google Perspective API. To get your API key, refer [here](https://support.perspectiveapi.com/s/docs-enable-the-api?language=en_US).
 
 
 ## 🖥️ Installation & Setup
